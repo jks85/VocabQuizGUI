@@ -15,3 +15,5 @@ The app consists of four classes:
 2. **InputView**- Builds the UI allowing the user to add words and translations to the dictionary
 3. **PracticeView**- Builds the UI allowing the user to quiz themselves and validates answer choices
 4. **Dictionary**- Stores the words/translations input by the user.
+
+The project was built using `Maven` and the pom.xml file has been included.
